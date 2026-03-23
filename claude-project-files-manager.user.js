@@ -1,21 +1,22 @@
 // ==UserScript==
 // @name         Claude Project Files — Sort, Filter & List View
 // @namespace    https://github.com/stoyanovd/claude-cfilesex
-// @version      6.4.0
+// @version      6.4.1
 // @description  Sort, filter, compact list view, version tracking and Select All for Claude project files. A→Z / Z→A / date / lines sorting, text search, Grid↔List toggle, outdated version badges.
 // @description:ru  Сортировка, фильтрация, компактный список, отслеживание версий и Select All для файлов проектов Claude.
 // @author       Dmitry S
 // @license      MIT
 // @homepageURL  https://github.com/stoyanovd/claude-cfilesex
 // @supportURL   https://github.com/stoyanovd/claude-cfilesex/issues
-// @source       https://github.com/stoyanovd/claude-cfilesex/tree/v6.4.0
+// @source       https://github.com/stoyanovd/claude-cfilesex/tree/v6.4.1
 // @match        https://claude.ai/project/*
 // @match        https://claude.ai/projects*
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-idle
+// @compatible   brave Primary development & testing (Violentmonkey)
 // @compatible   chrome
-// @compatible   firefox Tested with Violentmonkey
+// @compatible   firefox
 // @compatible   edge
 // @compatible   opera
 // @compatible   safari
@@ -72,7 +73,7 @@
 (function () {
   'use strict';
 
-  console.log('[cfilesex] Project Files Manager v6.4.0 loaded');
+  console.log('[cfilesex] Project Files Manager v6.4.1 loaded');
 
   // ════════════════════════════════════════════════════════════════════════════
   // ARCHITECTURE — block map
