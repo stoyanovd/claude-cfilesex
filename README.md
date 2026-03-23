@@ -69,9 +69,9 @@ You can also compare the Greasy Fork version with the GitHub version to confirm 
 | Browser | Status |
 |---------|--------|
 | Brave + Violentmonkey | ✅ Primary dev environment |
-| Chrome + Tampermonkey | ✅ Should work |
-| Firefox + Violentmonkey | ✅ Should work |
-| Edge | ✅ Should work |
+| Chrome + Tampermonkey | Should work |
+| Firefox + Violentmonkey | Should work |
+| Edge | Should work |
 | Safari + Userscripts | ⚠️ Untested |
 
 ## Also see
