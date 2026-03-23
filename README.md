@@ -76,7 +76,7 @@ You can also compare the Greasy Fork version with the GitHub version to confirm 
 
 ## Also see
 
-**[Claude — Add to Project](https://github.com/stoyanovd/claude-cadd2proj)** — Add artifact files to projects directly from chat with one-click buttons. [Install from Greasy Fork ↗](https://greasyfork.org/en/scripts/570883-claude-add-to-project)
+**[Claude — Add to Project](https://github.com/stoyanovd/claude-cadd2proj)** — Add artifact files to projects directly from chat with one-click buttons. [Install from Greasy Fork ↗](https://greasyfork.org/en/scripts/570889-claude-add-to-project)
 
 ![Add to Project buttons](https://raw.githubusercontent.com/stoyanovd/claude-cadd2proj/main/screenshots/img_claude_cadd2proj_view.png)
 
